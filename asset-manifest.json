@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/crazybonez/static/css/main.f800e8fe.chunk.css",
+    "main.js": "/crazybonez/static/js/main.77537cfb.chunk.js",
+    "main.js.map": "/crazybonez/static/js/main.77537cfb.chunk.js.map",
+    "runtime-main.js": "/crazybonez/static/js/runtime-main.773d7b96.js",
+    "runtime-main.js.map": "/crazybonez/static/js/runtime-main.773d7b96.js.map",
+    "static/js/2.a2c9aa90.chunk.js": "/crazybonez/static/js/2.a2c9aa90.chunk.js",
+    "static/js/2.a2c9aa90.chunk.js.map": "/crazybonez/static/js/2.a2c9aa90.chunk.js.map",
+    "index.html": "/crazybonez/index.html",
+    "precache-manifest.94413b5bc523024be79c34451106b1f0.js": "/crazybonez/precache-manifest.94413b5bc523024be79c34451106b1f0.js",
+    "service-worker.js": "/crazybonez/service-worker.js",
+    "static/css/main.f800e8fe.chunk.css.map": "/crazybonez/static/css/main.f800e8fe.chunk.css.map",
+    "static/media/crazybonezhead.png": "/crazybonez/static/media/crazybonezhead.aa90582b.png"
+  }
+}
