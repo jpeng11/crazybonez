@@ -15,27 +15,28 @@ const IMAGES =
         tags: [{value: "Ocean", title: "Ocean"}, {value: "People", title: "People"}],
         caption: "Boats (Jeshu John - designerspics.com)"
     },
-
     {
-        src: "https://c4.staticflickr.com/9/8887/28897124891_98c4fdd82b_b.jpg",
-        thumbnail: "https://c4.staticflickr.com/9/8887/28897124891_98c4fdd82b_n.jpg",
-        thumbnailWidth: 320,
-        thumbnailHeight: 212
+        src: "http://crazybonezskeleton.com/images/basshead/CrazyBonez2.jpg",
+        thumbnail: "http://crazybonezskeleton.com/images/basshead/CrazyBonez2.jpg"
+    },
+    {
+        src: "http://crazybonezskeleton.com/images/basshead/Mrz%20CB%20in%20Clint%20Buttum's%20Van%20-%20Tiger.jpg",
+        thumbnail: "http://crazybonezskeleton.com/images/basshead/Mrz%20CB%20in%20Clint%20Buttum's%20Van%20-%20Tiger.jpg"
     }];
 
 
 function App() {
 
-  return (
-    <div className="App">
-      <header className="App-header">
-          <img className="home" src={logo} alt=""/>
-          <div className="App-gallery" >
-              <Gallery images={IMAGES}/>
-          </div>
-      </header>
-    </div>
-  );
+    return (
+        <div className="App">
+            <header className="App-header">
+                <img className="home" src={logo} alt=""/>
+                <div className="App-gallery">
+                    <Gallery images={IMAGES}/>
+                </div>
+            </header>
+        </div>
+    );
 }
 
 export default App;
